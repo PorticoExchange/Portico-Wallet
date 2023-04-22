@@ -1,3 +1,3 @@
 # LDK-Portico
 
-Implementation in Rust for Portico using LDK
+Implementation in Rust for Portico app using LDK
