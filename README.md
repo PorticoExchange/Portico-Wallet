@@ -2,7 +2,7 @@
 
 Implementation in Rust for Portico app 
 
-# Features
+## Features
 
 - Atomic Bridge
 - Swaps native
@@ -11,7 +11,7 @@ Implementation in Rust for Portico app
 - Portifolio
 
 
-# Lightning Implementation
+## Lightning Implementation
 
 - Backend: Portico Core Client, LDK
 
