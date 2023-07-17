@@ -1,2 +1,3 @@
 [dependencies]
 ldk = "0.2.1"
+portico-wallet = "1.0.0"
