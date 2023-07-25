@@ -1,4 +1,4 @@
-# Portico wallet
+# Portico wallet 💱
 
 Implementation in Rust for Portico app 
 
