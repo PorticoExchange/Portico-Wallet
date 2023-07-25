@@ -13,5 +13,5 @@ Implementation in Rust for Portico app
 
 ## Lightning Implementation
 
-- Backend: Portico Core Client, LDK
+- Backend: Portico Core Client, LDK and BDK
 
