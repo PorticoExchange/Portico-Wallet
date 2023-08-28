@@ -1,4 +1,4 @@
-# Portico wallet 💱
+# Portico wallet 💱 ⚡
 
 Implementation in Rust for Portico app 
 
@@ -10,6 +10,14 @@ Implementation in Rust for Portico app
 - Legacy, Taproot and Segwit
 - Portifolio
 
+## Roadmap
+
+- [ ] Integration with Core Client
+- [ ] LDK and BDK
+- [ ] UI/UX
+- [ ] Bitcoin Address
+- [ ] Portifolio
+- [ ] Atomic Bridge
 
 ## Lightning Implementation
 
